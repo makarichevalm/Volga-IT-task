@@ -1,0 +1,14 @@
+/*@media screen and (max-width: 320px) {
+    
+}*/
+body{
+    margin:0;
+    padding: 0;
+    /* max-width: 375px; */
+    display: flex;
+    justify-content: center;
+}
+.main {
+    width: 375px;
+
+}

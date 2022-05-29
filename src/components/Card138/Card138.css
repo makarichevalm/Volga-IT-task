@@ -1,0 +1,14 @@
+.space_card{
+    padding-bottom:14px ;
+}
+.card_138{
+    width: 274px;
+    height: 138px;
+    background: #FFFFFF;
+    margin-left:50px;
+
+    border: 1px solid rgba(231, 235, 237, 0.80141);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    
+}

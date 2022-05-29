@@ -1,0 +1,14 @@
+.head{
+    height: 66px;
+    display: flex;
+    justify-content: space-between;
+    width: 375px;
+}
+.img{
+    margin-top: 14px;
+    margin-left: 25px;
+}
+.key{
+    margin-top: 24px;
+    margin-right: 24px;
+}

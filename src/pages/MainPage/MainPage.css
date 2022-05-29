@@ -1,0 +1,30 @@
+.all{
+    background: linear-gradient(180deg, #E8F0F2 0%, rgba(232, 240, 242, 0) 100%);
+
+}
+.img1{
+    margin-left: 26px;
+    padding-top: 67px;
+    width: 312px;
+    height: 153px;
+}
+.text1{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 24px;
+    padding-top: 48px;
+    line-height: 31px;
+    color: #2196F3;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+.text2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    color: #3A4850;
+    padding-top:22px;
+    line-height: 174%;
+}

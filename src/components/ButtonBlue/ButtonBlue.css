@@ -1,0 +1,23 @@
+.blue_but{
+    text-align: center;
+    margin-top: 29px;
+    padding-bottom: 122px;
+    
+}
+.but_main{
+    background: linear-gradient(270deg, #45C7FA 0%, #2196F3 100%);
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.03);
+    border-radius: 24px;
+    width: 177px;
+    height: 48px;
+    border:none;
+}
+.but_text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    /*line-height: 21px;*/
+    text-align: center;
+    color: #FFFFFF;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');

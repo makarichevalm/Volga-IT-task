@@ -1,0 +1,22 @@
+.header{
+    height: 58px;
+    display: flex;
+    justify-content: space-between;
+}
+.back{
+    margin-left: 23px;
+    margin-top: 22px;
+}
+.exit{
+    margin-top:22px;
+    margin-right: 23px;
+}
+.num_page{
+    margin-top:20px;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    line-height: 19px;
+    text-align: center;
+    color: #3C5060;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
