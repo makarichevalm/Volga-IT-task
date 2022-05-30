@@ -1,0 +1,27 @@
+.all{
+    background: #f2f2f2;
+    padding-top: 50px;
+    
+}
+.quest{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    color: #0F0F0F;
+    margin-bottom: 32px;
+}
+.last_t{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    padding-bottom: 24px;
+    padding-top: 119px;
+    color: #3A4850;
+}

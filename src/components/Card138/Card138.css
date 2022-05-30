@@ -2,13 +2,24 @@
     padding-bottom:14px ;
 }
 .card_138{
-    width: 274px;
-    height: 138px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 272px;
+    height: 136px;
     background: #FFFFFF;
     margin-left:50px;
-
     border: 1px solid rgba(231, 235, 237, 0.80141);
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.06);
     border-radius: 14px;
-    
+}
+.info{
+    margin-top:15px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #425A60;
 }
