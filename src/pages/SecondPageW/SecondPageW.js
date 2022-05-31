@@ -9,7 +9,7 @@ const SecondPageW = () => {
     return (
         <div>
             <PageHeader num="2/10" />
-            <Progress />
+            <Progress value="75px" />
             <div className="all">
                 <div className="quest">
                     What type of glasses are <br /> you looking for?

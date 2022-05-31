@@ -2,11 +2,12 @@ import React from 'react';
 import Header from '../../components/Header/Header';
 import '../MainPage/MainPage.css';
 import photo from '../../img/firstpage.png';
+import key from '../../img/arrow_right.png';
 import Button from '../../components/ButtonBlue/ButtonBlue';
 const MainPage = () => {
     return (
         <div>
-            <Header />
+            <Header img={key} height="66px" />
             <div className="all">
                 <div className="img1">
                     <img src={photo} />
@@ -16,7 +17,8 @@ const MainPage = () => {
                     Take the quiz to easily discover your <br /> perfect fit
                     from thousands of styles
                 </div>
-                <Button />
+                <Button text="Start Now" />
+                <div className="ots"></div>
             </div>
         </div>
     );

@@ -1,8 +1,5 @@
 .blue_but{
     text-align: center;
-    margin-top: 29px;
-    padding-bottom: 122px;
-    
 }
 .but_main{
     background: linear-gradient(270deg, #45C7FA 0%, #2196F3 100%);
@@ -16,7 +13,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-size: 18px;
-    /*line-height: 21px;*/
+    line-height: 21px;
     text-align: center;
     color: #FFFFFF;
 }

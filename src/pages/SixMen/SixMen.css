@@ -1,0 +1,30 @@
+.all{
+    background: #f2f2f2;
+    padding-top: 50px;
+}
+.ots{
+    height: 14px;
+}
+.quest{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    color: #0F0F0F;
+    padding-bottom: 32px;
+}
+.last_t{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #3A4850;
+    margin-top: 91px;
+    padding-bottom: 24px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap');

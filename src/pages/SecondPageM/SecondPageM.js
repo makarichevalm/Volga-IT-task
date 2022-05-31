@@ -9,13 +9,23 @@ const SecondPageM = () => {
     return (
         <div>
             <PageHeader num="2/10" />
-            <Progress />
+            <Progress value="75px" />
             <div className="all">
                 <div className="quest">
                     What type of glasses are <br /> you looking for?
                 </div>
-                <Card138 information="Eyeglasses" img={mEye} height="21" />
-                <Card138 information="Sunglasses" img={mSun} height="21" />
+                <Card138
+                    information="Eyeglasses"
+                    img={mEye}
+                    height="21px"
+                    width="64px"
+                />
+                <Card138
+                    information="Sunglasses"
+                    img={mSun}
+                    height="21px"
+                    width="64px"
+                />
                 <div className="last_t">I want to see both</div>
             </div>
         </div>

@@ -7,7 +7,7 @@ const Between2to3 = () => {
     return (
         <div>
             <PageHeader num="3/10" />
-            <Progress />
+            <Progress value="124px" />
             <div className="all">
                 <div className="Like">
                     <img src={Img} />

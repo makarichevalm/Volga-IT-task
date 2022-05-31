@@ -10,7 +10,7 @@ const FirstPage = () => {
     return (
         <div>
             <PageHeader num="1/10" />
-            <Progress />
+            <Progress value="35px"/>
             <div className="all">
                 <div className="quest">You are looking for</div>
                 <Card138
